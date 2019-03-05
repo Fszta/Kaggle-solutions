@@ -18,18 +18,20 @@ Solutions for past Kaggle competitions
 
 </p>
 
-<h3>Titanic</h3>
+<h3><a href="https://www.kaggle.com/c/titanic">Titanic</a></h3>
 <ul>
 	<li>Random forest :</li>
 	<li>SVM : </li>
 	<li>Decision tree: </li>
+	<li>KNN: </li>
 	<li>Kaggle score : </li>
 </ul>
 
-<h3>Forest Cover Type</h3>
+<h3><a href ="https://www.kaggle.com/c/forest-cover-type-kernels-only">Forest cover type</a></h3>
 <ul>
 	<li>Random forest :</li>
 	<li>SVM : </li>
 	<li>Decision tree: </li>
+	<li>KNN</li>
 	<li>Kaggle score : 0.68335 with Random forest </li>
 </ul>
