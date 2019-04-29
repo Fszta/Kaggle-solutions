@@ -1,13 +1,13 @@
 # Kaggle-solutions
-Solutions for past Kaggle competitions
+Solutions for past Kaggle competitions and datasets i used to pratice ML
 <h2>Dependencies</h2>
 
-<ul>  
-  <li>Keras</li>
-  <li>Seaborn</li>
-  <li>Sklearn</li>
-  <li>Matplotlib</li>
-</ul>
+  
+* Keras
+* Seaborn
+* Sklearn
+* Matplotlib
+
 
 <p>
   Install dependencies :
@@ -19,18 +19,23 @@ Solutions for past Kaggle competitions
 </p>
 
 <h3><a href="https://www.kaggle.com/c/titanic">Titanic</a></h3>
-<ul>
-	<li>Random forest : 78.2%</li>
-	<li>SVM : 81% </li>
-	<li>KNN: 81%</li>
-	<li>Kaggle score : 0.72248 with Random forest</li>
-</ul>
+
+* Random forest : 78.2%
+* SVM : 81% 
+* KNN: 81%
+* Kaggle score : 0.72248 with Random forest
+
 
 <h3><a href ="https://www.kaggle.com/c/forest-cover-type-kernels-only">Forest cover type</a></h3>
-<ul>
-	<li>Random forest : 85,9%</li>
-	<li>SVM : 79,5% </li>
-	<li>Decision tree: 79,5% </li>
-	<li>KNN : 78%</li>
-	<li>Kaggle score : 0.68335 with Random forest </li>
-</ul>
+
+* Random forest : 85,9%
+* SVM : 79,5% 
+* Decision tree: 79,5% 
+* KNN : 78%
+* Kaggle score : 0.68335 with Random forest 
+
+
+<h3>Other datasets</h3>
+* <a href="https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria">Malaria cell images</a>
+
+
