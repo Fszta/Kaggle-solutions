@@ -1,5 +1,5 @@
 # Kaggle-solutions
-Solutions for past Kaggle dataset i've used to pratice Machine learning
+Solutions for Kaggle dataset i've used to pratice Machine learning
 
 * <h4><a href="https://www.kaggle.com/lucidlenn/sloan-digital-sky-survey">Sloan digital sky survey</a></h4>
 * <h4><a href ="https://www.kaggle.com/loveall/cervical-cancer-risk-classification">Cervical cancer risk</a></h4>
